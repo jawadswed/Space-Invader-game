@@ -1,2 +1,2 @@
-# CPSC368_Project1_SpaceInvader
+Space Invader
 Space Invader game using python
